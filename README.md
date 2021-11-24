@@ -1,7 +1,5 @@
 # Vissim Connector
 
-[[_TOC_]]
-
 ## Overview
 
 Vissim Connector is a prototype to collaborate with PTV Vissim from MATLAB and Simulink. 
