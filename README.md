@@ -4,8 +4,6 @@
 
 Vissim Connector is a prototype to collaborate with PTV Vissim from MATLAB and Simulink. 
 
-See [PPT document in ./doc](./doc/20210628-PTV-VISSIM-integration.pptx) for detail.
-
 ## Screenshots
 
 ![screenshot1](./doc/screenshot1.png)
