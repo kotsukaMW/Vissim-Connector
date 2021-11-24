@@ -78,11 +78,6 @@ Tested with following environment:
 
 ## Developer Notes
 
-### To Do:
-- p-code
-- Support more Vissim parameters through mask parameter setting.
-- Log level setting through mask parameter setting.
-
 ### Directories
 
 - `.git` : git dir
