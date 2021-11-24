@@ -26,16 +26,6 @@ Vissim Connector is a prototype to collaborate with PTV Vissim from MATLAB and S
 
 ## How to use
 
-### Run from MATLAB (mainWithSO.m) (for debug)
-1. Open `./VissimConnector.prj.`
-2. Run `./test/mainWithSO.m` to see how Vissim and MATLAB interacts traffic data.
-
-### Run from Simulink with project (main.slx) (for debug)
-1. Open `./VissimConnector.prj.`
-2. Open `./test/main.slx.`
-3. Run the Simulink simulation.
-   - Note: Bird's-eye view allows to monitor how sensor detects vehicles spawned by Vissim.
-
 ### Run from Simulink with installed Vissim Blockset (mainWithToolbox.slx) (Recommended)
 1. Install Vissim Blockset. Refer to [guidance below](#how-to-install) 
 2. Open `./test/mainWithToolbox.slx` (You don't have to open project file `./VissimConnector.prj.`)
